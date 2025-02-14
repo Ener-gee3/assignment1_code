@@ -1,0 +1,9 @@
+﻿  mainProgram.cpp
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(37,30): error C3861: 'removeDuplicates': identifier not found
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(41,16): error C2374: 'removedDups': redefinition; multiple initialization
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(37,16): message : see declaration of 'removedDups'
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(41,30): error C3861: 'sumIndicies': identifier not found
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(42,22): error C2065: 'resPair': undeclared identifier
+C:\Users\chadd\Documents\assignment1_code\mainProgram.cpp(45,4): error C2146: syntax error: missing ';' before identifier 'cout'
+  testing.cpp
+  Generating Code...
