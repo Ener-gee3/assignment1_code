@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio cache and user-specific files
+.vs/
+*.suo
+*.user
+*.VC.db
+*.ipch
+*.tlog
+*.pdb
+*.idb
